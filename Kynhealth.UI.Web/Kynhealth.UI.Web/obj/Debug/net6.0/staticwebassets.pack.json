@@ -1,0 +1,1425 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Kynhealth.UI.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Kynhealth.UI.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\css\\theme-rtl.css",
+      "PackagePath": "staticwebassets\\css\\theme-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\css\\theme-rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\theme-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\css\\theme-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\theme-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\css\\theme-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\theme-rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\css\\theme.css",
+      "PackagePath": "staticwebassets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\css\\theme.css.map",
+      "PackagePath": "staticwebassets\\css\\theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\css\\theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\css\\theme.min.css.map",
+      "PackagePath": "staticwebassets\\css\\theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\doc\\bulk-select.png",
+      "PackagePath": "staticwebassets\\img\\doc\\bulk-select.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\favicons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\favicons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\favicons\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\img\\favicons\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\favicons\\manifest.json",
+      "PackagePath": "staticwebassets\\img\\favicons\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\favicons\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\favicons\\site.webmanifest",
+      "PackagePath": "staticwebassets\\img\\favicons\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\generic\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\generic\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\generic\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\generic\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\arrows-h.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\arrows-h.svg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\calendar.png",
+      "PackagePath": "staticwebassets\\img\\icons\\calendar.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\cloud-download-.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\cloud-download-.svg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\cloud-download.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\cloud-download.svg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\cloud-upload.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\cloud-upload.svg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\docs.png",
+      "PackagePath": "staticwebassets\\img\\icons\\docs.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\edit-alt-.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\edit-alt-.svg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\edit-alt.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\edit-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\icon-angle-right.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\icon-angle-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\icon-payment-methods.png",
+      "PackagePath": "staticwebassets\\img\\icons\\icon-payment-methods.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\icon-paypal-full.png",
+      "PackagePath": "staticwebassets\\img\\icons\\icon-paypal-full.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\image.png",
+      "PackagePath": "staticwebassets\\img\\icons\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\leaflet\\layers-2x.png",
+      "PackagePath": "staticwebassets\\img\\icons\\leaflet\\layers-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\leaflet\\layers.png",
+      "PackagePath": "staticwebassets\\img\\icons\\leaflet\\layers.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\leaflet\\marker-icon-2x.png",
+      "PackagePath": "staticwebassets\\img\\icons\\leaflet\\marker-icon-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\leaflet\\marker-icon.png",
+      "PackagePath": "staticwebassets\\img\\icons\\leaflet\\marker-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\leaflet\\marker-shadow.png",
+      "PackagePath": "staticwebassets\\img\\icons\\leaflet\\marker-shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\left-arrow-from-left.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\left-arrow-from-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\location.png",
+      "PackagePath": "staticwebassets\\img\\icons\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\map-marker.png",
+      "PackagePath": "staticwebassets\\img\\icons\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\paragraph.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\paragraph.svg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\sent.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\sent.svg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\shield.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\shield.svg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\visa.jpg",
+      "PackagePath": "staticwebassets\\img\\icons\\visa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\weather-icon.png",
+      "PackagePath": "staticwebassets\\img\\icons\\weather-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\weather-sm.jpg",
+      "PackagePath": "staticwebassets\\img\\icons\\weather-sm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\weather.jpg",
+      "PackagePath": "staticwebassets\\img\\icons\\weather.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\icons\\zip.png",
+      "PackagePath": "staticwebassets\\img\\icons\\zip.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\illustrations\\corner-4.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\corner-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\illustrations\\kynhealth.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\kynhealth.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\team\\1-thumb.png",
+      "PackagePath": "staticwebassets\\img\\team\\1-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\team\\2-thumb.png",
+      "PackagePath": "staticwebassets\\img\\team\\2-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\team\\3-thumb.png",
+      "PackagePath": "staticwebassets\\img\\team\\3-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\team\\4-thumb.png",
+      "PackagePath": "staticwebassets\\img\\team\\4-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\team\\5-thumb.png",
+      "PackagePath": "staticwebassets\\img\\team\\5-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\img\\team\\avatar.png",
+      "PackagePath": "staticwebassets\\img\\team\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\js\\config.navbar-vertical.js",
+      "PackagePath": "staticwebassets\\js\\config.navbar-vertical.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\js\\config.navbar-vertical.js.map",
+      "PackagePath": "staticwebassets\\js\\config.navbar-vertical.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\js\\config.navbar-vertical.min.js",
+      "PackagePath": "staticwebassets\\js\\config.navbar-vertical.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\js\\config.navbar-vertical.min.js.map",
+      "PackagePath": "staticwebassets\\js\\config.navbar-vertical.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\js\\theme.js.map",
+      "PackagePath": "staticwebassets\\js\\theme.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\js\\theme.min.js",
+      "PackagePath": "staticwebassets\\js\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\js\\theme.min.js.map",
+      "PackagePath": "staticwebassets\\js\\theme.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\anchorjs\\anchor.min.js",
+      "PackagePath": "staticwebassets\\vendors\\anchorjs\\anchor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\chart\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendors\\chart\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\chart\\Chart.min.js",
+      "PackagePath": "staticwebassets\\vendors\\chart\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\choices\\base.min.css",
+      "PackagePath": "staticwebassets\\vendors\\choices\\base.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\choices\\choices.min.css",
+      "PackagePath": "staticwebassets\\vendors\\choices\\choices.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\choices\\choices.min.js",
+      "PackagePath": "staticwebassets\\vendors\\choices\\choices.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\countup\\countUp.umd.js",
+      "PackagePath": "staticwebassets\\vendors\\countup\\countUp.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\dropzone\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\vendors\\dropzone\\dropzone.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\dropzone\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\vendors\\dropzone\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\vendors\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\flatpickr\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\vendors\\flatpickr\\flatpickr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\flatpickr\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\vendors\\flatpickr\\flatpickr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\fontawesome\\all.min.js",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\fslightbox\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\fslightbox\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\glightbox\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\vendors\\glightbox\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\glightbox\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\vendors\\glightbox\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\is\\is.min.js",
+      "PackagePath": "staticwebassets\\vendors\\is\\is.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\leaflet.markercluster\\MarkerCluster.Default.css",
+      "PackagePath": "staticwebassets\\vendors\\leaflet.markercluster\\MarkerCluster.Default.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\leaflet.markercluster\\MarkerCluster.css",
+      "PackagePath": "staticwebassets\\vendors\\leaflet.markercluster\\MarkerCluster.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\leaflet.markercluster\\leaflet.markercluster.js",
+      "PackagePath": "staticwebassets\\vendors\\leaflet.markercluster\\leaflet.markercluster.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\leaflet.tilelayer.colorfilter\\leaflet-tilelayer-colorfilter.min.js",
+      "PackagePath": "staticwebassets\\vendors\\leaflet.tilelayer.colorfilter\\leaflet-tilelayer-colorfilter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\leaflet\\leaflet.css",
+      "PackagePath": "staticwebassets\\vendors\\leaflet\\leaflet.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\leaflet\\leaflet.js",
+      "PackagePath": "staticwebassets\\vendors\\leaflet\\leaflet.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\lodash\\lodash.min.js",
+      "PackagePath": "staticwebassets\\vendors\\lodash\\lodash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\plyr\\plyr.css",
+      "PackagePath": "staticwebassets\\vendors\\plyr\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\plyr\\plyr.polyfilled.min.js",
+      "PackagePath": "staticwebassets\\vendors\\plyr\\plyr.polyfilled.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\popper\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendors\\popper\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\prism\\prism-okaidia.css",
+      "PackagePath": "staticwebassets\\vendors\\prism\\prism-okaidia.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\prism\\prism.js",
+      "PackagePath": "staticwebassets\\vendors\\prism\\prism.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\progressbar\\progressbar.min.js",
+      "PackagePath": "staticwebassets\\vendors\\progressbar\\progressbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tiny-slider\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\vendors\\tiny-slider\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tiny-slider\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\vendors\\tiny-slider\\tiny-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tiny-slider\\tiny-slider.scss",
+      "PackagePath": "staticwebassets\\vendors\\tiny-slider\\tiny-slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\bower.json",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\changelog.txt",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\changelog.txt"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\composer.json",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\icons\\default\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\icons\\default\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\jquery.tinymce.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\jquery.tinymce.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\jquery.tinymce.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\jquery.tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\package.json",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\advlist\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\advlist\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\anchor\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\anchor\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\autolink\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\autolink\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\autoresize\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\autoresize\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\autosave\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\autosave\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\bbcode\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\bbcode\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\bbcode\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\bbcode\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\bbcode\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\bbcode\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\charmap\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\charmap\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\code\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\code\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\codesample\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\codesample\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\colorpicker\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\colorpicker\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\colorpicker\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\colorpicker\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\colorpicker\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\colorpicker\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\contextmenu\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\contextmenu\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\contextmenu\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\contextmenu\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\contextmenu\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\contextmenu\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\directionality\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\directionality\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\emoticons\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\emoticons\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\fullpage\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\fullpage\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\fullpage\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\fullpage\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\fullpage\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\fullpage\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\fullscreen\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\fullscreen\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\help\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\help\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\hr\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\hr\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\hr\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\hr\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\hr\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\hr\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\image\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\image\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\imagetools\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\imagetools\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\imagetools\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\imagetools\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\imagetools\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\imagetools\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\importcss\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\importcss\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\insertdatetime\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\insertdatetime\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\legacyoutput\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\legacyoutput\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\legacyoutput\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\legacyoutput\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\legacyoutput\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\legacyoutput\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\link\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\link\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\lists\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\lists\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\media\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\media\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\nonbreaking\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\nonbreaking\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\noneditable\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\noneditable\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\noneditable\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\noneditable\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\noneditable\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\noneditable\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\pagebreak\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\pagebreak\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\paste\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\paste\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\paste\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\paste\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\paste\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\paste\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\preview\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\preview\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\print\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\print\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\print\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\print\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\print\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\print\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\quickbars\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\quickbars\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\save\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\save\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\searchreplace\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\searchreplace\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\spellchecker\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\spellchecker\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\spellchecker\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\spellchecker\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\spellchecker\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\spellchecker\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\tabfocus\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\tabfocus\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\tabfocus\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\tabfocus\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\tabfocus\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\tabfocus\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\table\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\table\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\template\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\template\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\template\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\template\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\textcolor\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\textcolor\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\textcolor\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\textcolor\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\textcolor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\textcolor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\textpattern\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\textpattern\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\textpattern\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\textpattern\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\textpattern\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\textpattern\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\toc\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\toc\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\toc\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\toc\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\toc\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\toc\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\visualblocks\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\visualblocks\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\visualchars\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\visualchars\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\wordcount\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\wordcount\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\readme.md",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide-dark\\fonts\\tinymce-mobile.woff",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide-dark\\fonts\\tinymce-mobile.woff"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide\\content.mobile.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide\\content.mobile.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide\\content.mobile.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide\\content.mobile.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide\\fonts\\tinymce-mobile.woff",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide\\fonts\\tinymce-mobile.woff"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide\\skin.mobile.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide\\skin.mobile.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\skins\\ui\\oxide\\skin.mobile.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\skins\\ui\\oxide\\skin.mobile.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\themes\\mobile\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\themes\\mobile\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\themes\\mobile\\theme.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\themes\\mobile\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\themes\\mobile\\theme.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\themes\\mobile\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\themes\\silver\\index.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\themes\\silver\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Laolu\\source\\repos\\Kynhealth\\Kynhealth.UI.Web\\Kynhealth.UI.Web\\wwwroot\\vendors\\typed.js\\typed.js",
+      "PackagePath": "staticwebassets\\vendors\\typed.js\\typed.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Kynhealth.UI.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Kynhealth.UI.Web.props",
+      "PackagePath": "build\\Kynhealth.UI.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Kynhealth.UI.Web.props",
+      "PackagePath": "buildMultiTargeting\\Kynhealth.UI.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Kynhealth.UI.Web.props",
+      "PackagePath": "buildTransitive\\Kynhealth.UI.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

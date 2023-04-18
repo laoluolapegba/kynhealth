@@ -1,0 +1,61 @@
+﻿@using Kynhealth.UI.Web.Models
+@model List<Kynhealth.UI.Web.Models.OrganizationViewModel>
+@{
+    ViewData["Title"] = "Organizations";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="card mb-3">
+    <div class="bg-holder d-none d-lg-block bg-card" style="background-image:url(../img/illustrations/corner-4.png);">
+    </div>
+    <!--/.bg-holder-->
+
+    <div class="card-body position-relative">
+        <div class="row">
+            <div class="col-lg-8">
+                <h3>Organizations</h3>
+                <p class="mb-0">Create and edit Orgnaizations </p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="card mb-3">
+    <div class="card-header">
+        <h5 class="mb-0" data-anchor>List</h5>
+    </div>
+    <div class="card-body bg-light">
+        <div class="row">
+            <div class="col-12">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Company name</th>
+                            <th>AddressLine1</th>
+                            <th>Telephone</th>
+                            <th>LocalGovtId</th>
+                            <th>State</th>
+
+                            <th class="white-space-nowrap" scope="col">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var org in Model)
+                        {
+                            <tr>
+                                <th scope="row">@org.CompanyName</th>
+                                <td>@org.AddressLine1</td>
+                                <td>@org.Telephone</td>
+                                <td>@org.LocalGovtId</td>
+                                <td>@org.StateId</td>
+                                <td>
+                                    <a class="btn btn-primary" asp-controller="UserRoles" asp-action="Manage" asp-route-userId="@org.CompanyId">Manage</a>
+                                </td>
+                            </tr>
+                        }
+                        
+                    </tbody>
+                </table>
+            </div>
+            
+        </div>
+    </div>
+</div>

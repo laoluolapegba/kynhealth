@@ -1,0 +1,89 @@
+﻿@page
+@model LoginModel
+@{
+    
+    Layout = "~/Views/Shared/_BlankLayout.cshtml";
+}
+
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="container">
+    <div class="row flex-center min-vh-100 py-6">
+        <div class="col-sm-10 col-md-8 col-lg-6 col-xl-5 col-xxl-4">
+            <a class="d-flex flex-center mb-4" href="#"><img class="mr-2" src="~/img/illustrations/kynhealth.png" alt="" width="58" /><span class="font-sans-serif font-weight-bolder fs-5 d-inline-block">kynhealth</span></a>
+            <div class="card">
+                <div class="card-body p-4 p-sm-5">
+                    <div class="row text-left justify-content-between align-items-center mb-2">
+                        <div class="col-auto">
+                            <h5>Log in</h5>
+                        </div>
+                        
+                    </div>
+                    <form id="account" method="post">
+                        <div class="mb-3">
+                            
+                            <input asp-for="Input.Email" class="form-control" autocomplete="username" placeholder="Username" aria-required="true" />
+                            <span asp-validation-for="Input.Email" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            
+                            <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="Password" />                            
+                            <span asp-validation-for="Input.Password" class="text-danger"></span>
+                        </div>
+                        <div class="row flex-between-center">
+                            <div class="col-auto">
+                                <div class="form-check mb-0">
+                                    
+                                    <input class="form-check-input" asp-for="Input.RememberMe" />
+                                    @Html.DisplayNameFor(m => m.Input.RememberMe)
+                                </div>
+                            </div>
+                            <a id="forgot-password" asp-page="./ForgotPassword">Forgot your password?</a>
+                        </div>
+                        <div class="mb-3">
+                            <button class="btn btn-primary btn-block mt-3" type="submit" name="submit">Log in</button>
+                        </div>
+                    </form>
+                    <div class="w-100 position-relative mt-4">
+                        <hr class="bg-300" />
+                        <div class="position-absolute absolute-centered t-0 px-3 bg-white font-sans-serif fs--1 text-500 text-nowrap">or log in with</div>
+                    </div>
+                    <div class="input-group mb-0">
+                        <div class="row g-2">
+                            @{
+                                if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                                {
+                                    <div>
+                                        <p>
+                                            There are no external authentication services configured. 
+                                        
+                                        </p>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                                        <div>
+                                            <p>
+                                                @foreach (var provider in Model.ExternalLogins!)
+                                                {
+                                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
+                                                }
+                                            </p>
+                                        </div>
+                                    </form>
+                                }
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_Scripts" />
+}

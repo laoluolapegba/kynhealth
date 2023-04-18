@@ -1,0 +1,12 @@
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Infrastructure\bin\Debug\net6.0\Kynhealth.Infrastructure.deps.json
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Infrastructure\bin\Debug\net6.0\Kynhealth.Infrastructure.dll
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Infrastructure\bin\Debug\net6.0\Kynhealth.Infrastructure.pdb
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Infrastructure\obj\Debug\net6.0\Kynhealth.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Infrastructure\obj\Debug\net6.0\Kynhealth.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Infrastructure\obj\Debug\net6.0\Kynhealth.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Infrastructure\obj\Debug\net6.0\Kynhealth.Infrastructure.AssemblyInfo.cs
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Infrastructure\obj\Debug\net6.0\Kynhealth.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Infrastructure\obj\Debug\net6.0\Kynhealth.Infrastructure.dll
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Infrastructure\obj\Debug\net6.0\refint\Kynhealth.Infrastructure.dll
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Infrastructure\obj\Debug\net6.0\Kynhealth.Infrastructure.pdb
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Infrastructure\obj\Debug\net6.0\ref\Kynhealth.Infrastructure.dll

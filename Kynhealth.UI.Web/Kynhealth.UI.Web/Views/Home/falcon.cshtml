@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <!-- ===============================================-->
+    <!--    Document Title-->
+    <!-- ===============================================-->
+    <title>KYN Health Application </title>
+
+
+    <partial name="falcon/_Styles" />
+
+  </head>
+
+
+  <body>
+
+    <!-- ===============================================-->
+    <!--    Main Content-->
+    <!-- ===============================================-->
+    <main class="main" id="top">
+      <div class="container">
+        <nav class="navbar navbar-light navbar-vertical navbar-expand-xl">
+          <div class="d-flex align-items-center">
+            <div class="toggle-icon-wrapper">
+
+              <button class="btn navbar-toggler-humburger-icon navbar-vertical-toggle" data-toggle="tooltip" data-placement="left" title="Toggle Navigation"><span class="navbar-toggle-icon"><span class="toggle-line"></span></span></button>
+
+            </div><a class="navbar-brand" href="index.html">
+              <div class="d-flex align-items-center py-3"><img class="mr-2" src="img/illustrations/falcon.png" alt="" width="40" /><span class="font-sans-serif">kynhealth</span>
+              </div>
+            </a>
+          </div>
+          <partial name="falcon/_MainNavigation" />
+        </nav>
+
+        <div class="content">
+         
+          <partial name="falcon/_TopNavigation" />
+
+            @RenderBody()
+          <partial name="falcon/_Footer" />
+        </div>
+       </div>
+    </main>
+    <!-- ===============================================-->
+    <!--    End of Main Content-->
+    <!-- ===============================================-->
+
+    <partial name="falcon/_Scripts" />
+  </body>
+
+</html>

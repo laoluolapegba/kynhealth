@@ -1,0 +1,12 @@
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Core\bin\Debug\net6.0\Kynhealth.Core.deps.json
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Core\bin\Debug\net6.0\Kynhealth.Core.dll
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Core\bin\Debug\net6.0\Kynhealth.Core.pdb
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Core\obj\Debug\net6.0\Kynhealth.Core.csproj.AssemblyReference.cache
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Core\obj\Debug\net6.0\Kynhealth.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Core\obj\Debug\net6.0\Kynhealth.Core.AssemblyInfoInputs.cache
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Core\obj\Debug\net6.0\Kynhealth.Core.AssemblyInfo.cs
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Core\obj\Debug\net6.0\Kynhealth.Core.csproj.CoreCompileInputs.cache
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Core\obj\Debug\net6.0\Kynhealth.Core.dll
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Core\obj\Debug\net6.0\refint\Kynhealth.Core.dll
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Core\obj\Debug\net6.0\Kynhealth.Core.pdb
+C:\Users\Laolu\source\repos\Kynhealth\Kynhealth.Core\obj\Debug\net6.0\ref\Kynhealth.Core.dll

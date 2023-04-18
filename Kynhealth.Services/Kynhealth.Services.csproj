@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AzureAuthentication\**" />
+    <EmbeddedResource Remove="AzureAuthentication\**" />
+    <None Remove="AzureAuthentication\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="Marvin.StreamExtensions" Version="1.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="3.1.9" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.3.1" />
+    <PackageReference Include="RabbitMQ.Client.Core.DependencyInjection" Version="3.1.2" />
+    <PackageReference Include="System.DirectoryServices" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kynhealth.Core\Kynhealth.Core.csproj" />
+    <ProjectReference Include="..\Kynhealth.Data\Kynhealth.Data.csproj" />
+    <ProjectReference Include="..\Kynhealth.Entities\Kynhealth.Entities.csproj" />
+    <ProjectReference Include="..\Kynhealth.Infrastructure\Kynhealth.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
